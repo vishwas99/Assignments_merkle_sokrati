@@ -1,1 +1,2 @@
 Data Analysis on Google Ads and Facebook Ads 
+pandas profile report wont show up on github, please install pandas_profiling and run the cells locally -> pip install pandas_profiling
